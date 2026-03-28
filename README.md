@@ -50,6 +50,8 @@ Personal finance dashboard with Plaid integration for secure transaction aggrega
 - transaction syncing
 - spending analytics
 
+---
+
 ## 🌍 Connect With Me
 
 Portfolio  
