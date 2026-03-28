@@ -45,9 +45,6 @@ I enjoy working on scalable web apps, APIs and clean user interfaces.
 ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
 
 Personal finance dashboard with Plaid integration for secure transaction aggregation and analytics.
-
----
-Currently working on:
 - auth system
 - bank account connection
 - transaction syncing
