@@ -50,6 +50,9 @@ Personal finance dashboard with Plaid integration for secure transaction aggrega
 - transaction syncing
 - spending analytics
 
+
+### [SteamSearcherMobileApp](https://github.com/r1zuuu/SteamSearcher)
+![Reaact Native](https://img.shields.io/badge/-React%20native-000?&logo=React)
 ---
 
 ## 🌍 Connect With Me
