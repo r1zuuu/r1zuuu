@@ -35,23 +35,6 @@ I enjoy working on scalable web apps, APIs and clean user interfaces.
 
 ---
 
-## 🛠 Currently Working On
-
-### [Flux](https://github.com/r1zuuu/Flux)
-
-![NextJS](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
-
-Personal finance dashboard with Plaid integration for secure transaction aggregation and analytics.
-- auth system
-- bank account connection
-- transaction syncing
-- spending analytics
-
-
----
 
 ## 🌍 Connect With Me
 
