@@ -21,7 +21,7 @@ https://www.rayzacher.pl/en
 
 ## 📊 GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=r1zuuu&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=r1zuuu&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 ---
