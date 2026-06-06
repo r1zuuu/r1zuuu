@@ -26,12 +26,10 @@ https://www.rayzacher.pl/en
 
 ---
 
-## 🧠 About Me
+## 🆕 Recently
 
-I'm a full-stack developer based in Warsaw, Poland.  
-I focus on building modern web applications using **Next.js, React and TypeScript**.
-
-I enjoy working on scalable web apps, APIs and clean user interfaces.
+I have finished working on my project Ritatu you can go check it out:
+https://github.com/r1zuuu/Ritatu
 
 ---
 
