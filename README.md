@@ -2,6 +2,7 @@
 
 Founder of Delvio Digital
 https://delviodigital.com/
+
 Full-Stack Developer
 
 📍 Warsaw, Poland  
