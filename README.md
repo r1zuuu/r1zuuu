@@ -1,11 +1,14 @@
 # Hi 👋 I'm Stanisław Rayzacher
 
-Full-Stack Developer focused on modern web applications.
+Founder of Delvio Digital
+https://delviodigital.com/
+Full-Stack Developer
 
 📍 Warsaw, Poland  
 
 🌐 Portfolio  
 https://www.rayzacher.pl/en  
+
 
 ---
 
