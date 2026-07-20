@@ -12,10 +12,10 @@
 <!-- ═══════════════════ ABOUT ═══════════════════ -->
 ## 🧑‍💻 About Me
 
-- 🚀 Founder of **[Delvio Digital](https://delviodigital.com/)** - we build websites for businesses
-- 💼 Full-Stack Developer - **Next.js · TypeScript · React · Node.js**
+- 🚀 Founder of **[Delvio Digital](https://delviodigital.com/)**, where we build websites for businesses
+- 💼 Full-Stack Developer: **Next.js · TypeScript · React · Node.js**
 - 📍 Warsaw, Poland
-- 🌐 Portfolio → **[rayzacher.pl](https://www.rayzacher.pl/en)**
+- 🌐 Portfolio: **[rayzacher.pl](https://www.rayzacher.pl/en)**
 
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 ## 🚀 Tech Stack
@@ -31,16 +31,19 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=r1zuuu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1zuuu&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r1zuuu&theme=tokyonight" width="95%" alt="Profile details" />
 
-<img src="https://streak-stats.demolab.com?user=r1zuuu&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub streak" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=r1zuuu&theme=tokyonight" alt="Stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=r1zuuu&theme=tokyonight&utcOffset=2" alt="Productive time" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r1zuuu&theme=tokyonight" alt="Repos per language" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=r1zuuu&theme=tokyonight" alt="Most commit language" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=r1zuuu&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5" width="95%" alt="Contribution graph" />
 
 </div>
 
-<!-- ═══════════════════ SNAKE (wymaga GitHub Action - patrz snake.yml) ═══════════════════ -->
+<!-- ═══════════════════ SNAKE (wymaga GitHub Action, patrz snake.yml) ═══════════════════ -->
 <div align="center">
 
 <picture>
@@ -54,15 +57,15 @@
 <!-- ═══════════════════ FEATURED PROJECT ═══════════════════ -->
 ## 🆕 Featured Project
 
+I have just finished working on **Ritatu**, go check it out! 👇
+
 <div align="center">
 
 <a href="https://github.com/r1zuuu/Ritatu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=r1zuuu&repo=Ritatu&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Ritatu" />
+  <img src="https://img.shields.io/badge/Ritatu-View%20on%20GitHub-7aa2f7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="Ritatu" />
 </a>
 
 </div>
-
-I've just finished working on **Ritatu** - go check it out! 👆
 
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 ## 🌍 Connect With Me
