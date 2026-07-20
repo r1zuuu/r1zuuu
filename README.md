@@ -31,14 +31,6 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r1zuuu&theme=tokyonight" width="95%" alt="Profile details" />
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=r1zuuu&theme=tokyonight" alt="Stats" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=r1zuuu&theme=tokyonight&utcOffset=2" alt="Productive time" />
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r1zuuu&theme=tokyonight" alt="Repos per language" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=r1zuuu&theme=tokyonight" alt="Most commit language" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=r1zuuu&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5" width="95%" alt="Contribution graph" />
 
 </div>
