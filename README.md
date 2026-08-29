@@ -26,16 +26,6 @@
 
 </div>
 
-<!-- ═══════════════════ STATS ═══════════════════ -->
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=r1zuuu&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5" width="95%" alt="Contribution graph" />
-
-</div>
-
-
 <!-- ═══════════════════ FEATURED PROJECT ═══════════════════ -->
 ## 🆕 Featured Project
 
