@@ -29,7 +29,7 @@
 <!-- ═══════════════════ FEATURED PROJECT ═══════════════════ -->
 ## 🆕 Featured Project
 
-I have just finished working on **Ritatu**, go check it out! 👇
+I've just made my personal project **Ariadne** public - you might want to use it so go check it out! 👇
 
 <div align="center">
 
