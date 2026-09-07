@@ -33,8 +33,8 @@ I've just made my personal project **Ariadne** public - you might want to use it
 
 <div align="center">
 
-<a href="https://github.com/r1zuuu/Ritatu">
-  <img src="https://img.shields.io/badge/Ritatu-View%20on%20GitHub-7aa2f7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="Ritatu" />
+<a href="https://github.com/r1zuuu/Ariadne">
+  <img src="https://img.shields.io/badge/Ariadne-View%20on%20GitHub-7aa2f7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="Ariadne" />
 </a>
 
 </div>
