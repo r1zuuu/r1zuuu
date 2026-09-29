@@ -1,7 +1,7 @@
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=220&section=header&text=Stanis%C5%82aw%20Rayzacher&fontColor=c0caf5&fontSize=55&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20&descColor=7aa2f7&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=220&section=header&text=Stanis%C5%82aw%20Rayzacher&fontColor=c0caf5&fontSize=55&fontAlignY=35&desc=Full-Stack%20Developer%20%B7%20&descColor=7aa2f7&descAlignY=55&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Based+in+Warsaw%2C+Poland+%F0%9F%87%B5%F0%9F%87%B1" alt="Typing SVG" />
 
